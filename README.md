@@ -25,7 +25,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/hamzzBot/hamzzbot-v1.git
-cd botwa
+cd hamzzbot-v1
 npm install
 npm update
 ```
@@ -40,7 +40,7 @@ npm update
 
 ```bash
 git clone https://github.com/hamzzBot/hamzzbot-v1.git
-cd botwa
+cd hamzzbot-v1
 npm install
 npm update
 ```
