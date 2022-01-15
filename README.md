@@ -1,6 +1,6 @@
 
 <<p align="center">
-<img src="https://telegra.ph/file/f861e80098de6b550d631.jpg" width="300" height="200"/>
+<img src="https://telegra.ph/file/f861e80098de6b550d631.jpg" width="300" height="300"/>
   </p>
   
  <p align="center">
@@ -11,9 +11,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/Siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/HamzzBot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Siegrin/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Scolor=red&style=flat-square"></a>
-<a href="https://github.com/Siegrin/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hamzz/hamzz?color=red&style=flat-square"></a>
-<a href="https://github.com/Siegrin/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hamzzbot/hamzzbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <br>
 
