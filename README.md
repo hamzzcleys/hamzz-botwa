@@ -4,16 +4,16 @@
   </p>
   
  <p align="center">
- <a href="#"><img title="🐊Luc Bot🐊" src="https://img.shields.io/badge/Luc Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="HamzzBot" src="https://img.shields.io/badge/Luc Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Siegrin"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Siegrin-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nurutomo"><img title="Author" src="https://img.shields.io/badge/AUTHOR-nurutomo-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/Siegrin?color=blue&style=flat-square"></a>
-<a href="https://github.com/Siegrin/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Siegrin/siegrin?color=red&style=flat-square"></a>
-<a href="https://github.com/Siegrin/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Siegrin/siegrin?color=red&style=flat-square"></a>
-<a href="https://github.com/Siegrin/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Siegrin/siegrin?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/HamzzBot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Siegrin/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Scolor=red&style=flat-square"></a>
+<a href="https://github.com/Siegrin/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hamzz/hamzz?color=red&style=flat-square"></a>
+<a href="https://github.com/Siegrin/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hamzzbot/hamzzbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <br>
 
