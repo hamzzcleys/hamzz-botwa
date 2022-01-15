@@ -60,6 +60,8 @@ Hamzz
 
 ```bash
 node .
+
+npm start
 ```
 
 ---------
