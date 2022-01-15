@@ -3,7 +3,6 @@
 <img src="https://i.top4top.io/p_2132a2l5k0.gif" width="200" height="200"/>
 </p>
 <h1 align='center'>WELCOME BANH👋</h1>
-<p align='center'>membuat video/gambar random</p>
 <p align='center'>
 </p>
 
@@ -25,7 +24,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/hamzzbot-v1
+git clone https://github.com/hamzzBot/hamzzbot-v1.git
 cd botwa
 npm install
 npm update
@@ -40,7 +39,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/hamzzbot-v1.git
+git clone https://github.com/hamzzBot/hamzzbot-v1.git
 cd botwa
 npm install
 npm update
