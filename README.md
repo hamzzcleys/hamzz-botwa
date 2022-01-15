@@ -1,14 +1,11 @@
-# HamzzBot
-Simple Rpg WhatsApp Bot HamzzBot
 
-<a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dawnfrosty/Mike-bot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Dawnfrosty/Mike-bot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/issues"><img title="Issues" src="https://img.shields.io/github/issues/Dawnfrosty/Mike-bot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Dawnfrosty/Mike-bot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Dawnfrosty/Mike-bot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Dawnfrosty/Mike-bot?label=PullRequest&color=red&style=flat-square"></a>
+<p align="center">
+<img src="https://i.top4top.io/p_2132a2l5k0.gif" width="200" height="200"/>
+</p>
+<h1 align='center'>WELCOME BANH👋</h1>
+<p align='center'>membuat video/gambar random</p>
+<p align='center'>
+</p>
 
 ## Deploy to heroku
 
@@ -28,7 +25,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/HamzzBot/botwa
+git clone https://github.com/hamzzbot-v1
 cd botwa
 npm install
 npm update
@@ -43,7 +40,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/HamzzBot/botwa
+git clone https://github.com/hamzzbot-v1.git
 cd botwa
 npm install
 npm update
