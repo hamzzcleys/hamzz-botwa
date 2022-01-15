@@ -1,4 +1,4 @@
-#
+# welcome to my github
 <p align="center">
 <img src="https://telegra.ph/file/f861e80098de6b550d631.jpg" width="200" height="200"/>
   </p>
@@ -12,7 +12,7 @@
 </p>
 <br>
 
-# deploy to heroku
+## DEPLOY HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
