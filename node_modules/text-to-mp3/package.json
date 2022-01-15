@@ -1,0 +1,25 @@
+{
+  "name": "text-to-mp3",
+  "version": "1.0.4",
+  "author": "Enrico Aleandri <aleandrienrico@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node textToMp3.js -t \"Ciao Mondo\" -f text.mp3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enricoaleandri/text-to-mp3"
+  },
+  "keywords": [
+    "translate",
+    "mp3",
+    "speach",
+    "text",
+    "text-to-mp3",
+    "google"
+  ],
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
