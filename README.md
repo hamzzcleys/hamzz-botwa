@@ -9,11 +9,8 @@
 <p align="center">
 <a href="https://github.com/Nurutomo"><img title="Author" src="https://img.shields.io/badge/AUTHOR-nurutomo-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<a href="https://github.com/Siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/HamzzBot?color=blue&style=flat-square"></a>
 </p>
 <br>
-
 ## DEPLOY TO HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
