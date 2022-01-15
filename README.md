@@ -46,6 +46,13 @@ npm update
 ```
 
 ---------
+# thanks to 
+Allah SWT
+nurutomo (author)
+all creator bot
+
+# recode 
+Hamzz
 
 ## Run
 
