@@ -23,7 +23,7 @@ global.APIKeys = {
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.packname = 'HamzzBot' 
+global.packname = 'HamzzBott' 
 global.author = 'Hamzz' 
 
 global.wait = '_*tunggu..*_'
