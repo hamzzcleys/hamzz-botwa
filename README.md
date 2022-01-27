@@ -13,7 +13,7 @@
 <br>
 
 ## CONTACT ME
-[![WhatsApp Me](https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285826114932)
+[![WhatsApp Me](https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/380713139468)
 
 ## DEPLOY HEROKU
 
