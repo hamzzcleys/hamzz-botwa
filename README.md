@@ -12,6 +12,9 @@
 </p>
 <br>
 
+## Contact me
+[![WhatsApp Me](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/6285826114932) 
+
 ## DEPLOY HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
