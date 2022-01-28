@@ -33,7 +33,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/hamzzBot/hamzz-botwa.git
+git clone https://github.com/hamzzcleys/hamzz-botwa.git
 cd hamzz-botwa
 npm install
 npm update
@@ -48,7 +48,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/hamzzBot/hamzz-botwa.git
+git clone https://github.com/hamzzcleys/hamzz-botwa.git
 cd hamzz-botwa
 npm install
 npm update
